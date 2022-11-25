@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">I am Javascript developer.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allala0&label=Profile%20views&color=0e75b6&style=flat" alt="allala0" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allala0&show_icons=true&locale=en&layout=compact" alt="allala0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allala0&show_icons=true&locale=en" alt="allala0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allala0&" alt="allala0" /></p>
