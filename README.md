@@ -1,3 +1,4 @@
+<img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b95209a3292d012d0c7bf49d075bbd1acc807e6ca311&rid=giphy.gif&ct=s" width=200>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allala0&label=Profile%20views&color=0e75b6&style=flat" alt="allala0" /> </p>
 
 <h3 align="left">Connect with me:</h3>
