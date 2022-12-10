@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allala0&label=Profile%20views&color=0e75b6&style=flat" alt="allala0" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+      <a href="mailto:arturbrytkowski@gmail.com" target="blank"><img align="center" src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png" alt="arturbrytkowski@gmail.com" height="30" width="30" /></a>
    <a href="https://www.fiverr.com/arturbrytkowski" target="blank"><img align="center" src="https://www.fiverr.com/favicon.ico" alt="arturbrytkowski" height="30" width="30" /></a>
    <a href="https://twitter.com/arturbrytkowski" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="arturbrytkowski" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/artur-brytkowski-1555b0258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-brytkowski-1555b0258" height="30" width="40" /></a>
