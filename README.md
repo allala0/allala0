@@ -26,8 +26,8 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=allala0&show_icons=true&locale=en&hide_title=true&theme=tokyonight" alt="allala0" height=150/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=allala0&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=tokyonight" height=150 />
 </a>
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allala0&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="allala0" height=150/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allala0&langs_count=3&hide_title=true&hide_border=true&theme=tokyonight" alt="allala0" height=150/>
 </a>
