@@ -3,9 +3,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
       arturbrytkowski@gmail.com<br><br>
-   <a href="https://www.fiverr.com/arturbrytkowski" target="blank"><img align="center" src="https://www.fiverr.com/favicon.ico" alt="arturbrytkowski" height="30" width="30" /></a>
-   <a href="https://twitter.com/arturbrytkowski" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="arturbrytkowski" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/artur-brytkowski-1555b0258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-brytkowski-1555b0258" height="30" width="40" /></a>
+   <a href="https://www.fiverr.com/arturbrytkowski" target="blank"><img align="center" src="https://www.fiverr.com/favicon.ico" alt="arturbrytkowski" height="30" width="30" /></a>
    <a href="https://stackoverflow.com/users/12334408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12334408" height="30" width="40" /></a>
    <a href="https://codepen.io/allala0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allala0" height="30" width="40" /></a>
 </p>
